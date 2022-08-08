@@ -9,10 +9,10 @@ public class Main {
     public static void main(String[] args) throws IOException {
 
         FileWriter writer = new FileWriter("Alphabet.txt");
-        writer.write("Aa Bb Cc Dd Ee Ff Gg Hh Ii\n " +
-                           "Jj Kk Ll Mm Nn Oo Pp Qq\n" +
-                         "RrSs Tt Uu Vv Ww Xx Yy Zz\n" +
-                         "1 2 3 4 5 6 7 8 9");
+        writer.write("Aa\n Bb\n Cc\n Dd\n Ee\n Ff\nGg\n Hh\n Ii\n " +
+                           "Jj\n Kk\n Ll\n Mm\n Nn\n Oo\n Pp\n Qq\n" +
+                         "Rr\nSs\n Tt\n Uu\n Vv\n Ww\n Xx\n Yy\n Zz\n" +
+                         "1\n 2\n 3\n 4\n 5\n 6\n 7\n 8\n 9");
         writer.close();
 
         FileReader reader = new FileReader("Alphabet.txt");

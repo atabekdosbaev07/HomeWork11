@@ -1,10 +1,10 @@
-Aa
+ Aa
  Bb
  Cc
  Dd
  Ee
  Ff
-Gg
+ Gg 
  Hh
  Ii
  Jj
@@ -15,8 +15,8 @@ Gg
  Oo
  Pp
  Qq
-Rr
-Ss
+ Rr
+ Ss
  Tt
  Uu
  Vv
@@ -24,7 +24,7 @@ Ss
  Xx
  Yy
  Zz
-1
+ 1
  2
  3
  4
